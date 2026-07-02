@@ -117,14 +117,24 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 ## ✦ Certifications
 
 <div align="center">
-  <img src="https://www.credly.com/badges/81297d3f-b5f6-4b53-b546-6f028670dd34/linked_in_profile?style=for-the-badge&logo=microsoft&logoColor=8B5CF6&borderColor=8B5CF6" alt="Azure Fundamentals" />
+  <a href="https://www.credly.com/badges/81297d3f-b5f6-4b53-b546-6f028670dd34/linked_in_profile">
+    <img src="https://img.shields.io/badge/Azure_Fundamentals-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=8B5CF6" alt="Azure Fundamentals" />
+  </a>
   <br><br>
-  <img src="https://www.linkedin.com/feed/update/urn:li:activity:7462054741557280768/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BIQ41G8ISQgehKFMhxWnSYQ%3D%3D?style=for-the-badge&logo=nptel&logoColor=8B5CF6&borderColor=8B5CF6" alt="NPTEL" />
+  
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7462054741557280768/">
+    <img src="https://img.shields.io/badge/NPTEL_Certification-0D1117?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6" alt="NPTEL" />
+  </a>
   <br><br>
-  <img src="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a40a6b11f68ff6b8fa05c58_1782639742837_completion_certificate.pdf?style=for-the-badge&logo=deloitte&logoColor=9333EA&borderColor=9333EA" alt="Deloitte" />
-</div>
+  
+  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a40a6b11f68ff6b8fa05c58_1782639742837_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/Deloitte_Job_Simulation-0D1117?style=for-the-badge&logo=deloitte&logoColor=9333EA" alt="Deloitte" />
+  </a>
   <br><br>
-  <img src="https://learn.microsoft.com/en-us/users/MDRAGHIB-3007/credentials/1128E2CECA09DDA1?ref=https%3a%2f%2fwww.linkedin.com%2f?style=for-the-badge&logo=microsoft&logoColor=9333EA&borderColor=9333EA" alt="Microsoft" />
+  
+  <a href="https://learn.microsoft.com/en-us/users/MDRAGHIB-3007/credentials/1128E2CECA09DDA1">
+    <img src="https://img.shields.io/badge/Microsoft_Learn_Credential-0D1117?style=for-the-badge&logo=microsoft&logoColor=9333EA" alt="Microsoft" />
+  </a>
 </div>
 
 ---
@@ -133,9 +143,7 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-Top_1%25-0D1117?style=for-the-badge&logo=leetcode&logoColor=8B5CF6&borderColor=8B5CF6" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Institute_Rank_1-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=6366F1&borderColor=6366F1" alt="GFG" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Gold-0D1117?style=for-the-badge&logo=hackerrank&logoColor=9333EA&borderColor=9333EA" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-4_Star_Div_2-0D1117?style=for-the-badge&logo=codechef&logoColor=A855F7&borderColor=A855F7" alt="CodeChef" /></a>
 </div>
 
 ---
@@ -153,13 +161,6 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 
 ---
 
-## ✦ GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raghib6289&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
----
 
 ## ✦ Contribution Activity
 
@@ -169,31 +170,27 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 
 ---
 
-## ✦ Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raghib6289/Raghib6289/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raghib6289/Raghib6289/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raghib6289/Raghib6289/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
 ## ✦ Current Focus
 
 ```yaml
 Current_Status:
   Learning:
-    - "Advanced Rust for systems programming"
-    - "Zero-knowledge proofs in distributed ledgers"
+    - "Advanced Python concepts (Object-Oriented Programming, asynchronous programming, decorators) to write clean, scalable code."
+    - "Data wrangling and mathematical foundations using Pandas and NumPy."
+    - "Backend API development using FastAPI (ideal for data applications)."
+    - "Relational database design and complex query building using PostgreSQL and SQL."
   Building:
-    - "High-performance RAG pipeline with Milvus and Llama 3"
-    - "Open-source CI/CD automation toolkit"
+    - "End-to-end interactive data dashboards using a Python backend and modern JavaScript frontend (e.g., integrating Chart.js or React)."
+    - "REST APIs designed to ingest raw data, process it, and serve it to frontend applications."
+    - "Automated ETL (Extract, Transform, Load) pipelines that scrape data, clean it, and store it in a database."
+    - "A portfolio project that deploys a basic machine learning model (scikit-learn) behind a web interface."
   Exploring:
-    - "Wasm edge computing architectures"
-    - "Quantum machine learning principles"
+    - "Containerization using Docker to ensure your data science environment and web apps run consistently anywhere."
+    - "Cloud deployment workflows (AWS, Render, or Google Cloud) to take full-stack applications live."
+    - "The basics of modern frontend frameworks (like React or Vue.js) to better connect your backend APIs to user interfaces."
+    - "NoSQL databases (like MongoDB) for handling unstructured data."
   Open_To:
-    - "Staff/Principal Engineer roles"
-    - "AI architecture consulting"
+    - "Collaborating on open-source projects that bridge the gap between web development and data analytics."
+    - "Code reviews and constructive feedback on database architecture and algorithm efficiency."
+    - "Hackathons or study groups focused on Python engineering and machine learning deployment."
+    - "Mentorship from senior engineers working at the intersection of data and web infrastructure."
