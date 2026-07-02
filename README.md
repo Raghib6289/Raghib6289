@@ -36,11 +36,18 @@
 
 ## ✦ About
 
-I am a Senior Software Engineer and AI Practitioner with a strong focus on building scalable enterprise systems and product-driven solutions. My engineering philosophy revolves around writing clean, modular, and performance-optimized code while leveraging advanced data science paradigms to solve complex architectural challenges.
+## ✦ About
 
-With deep expertise across the full stack—from designing high-throughput backend microservices to developing responsive, user-centric frontends—I bridge the gap between complex algorithms and intuitive product experiences. I am passionate about system design, machine learning operations (MLOps), and cultivating a culture of engineering excellence.
+I am a Full Stack Developer and Data Scientist who specializes in the Python ecosystem. My engineering philosophy centers on bridging the gap between robust software architecture and advanced data analytics to build intelligent, data-driven web applications from the ground up.
 
-**Open To:** Full-Stack Engineering Roles, Open Source Collaborations, and Tech opportunities.
+By combining a product-first engineering mindset with analytical rigor, I transform complex machine learning models and heavy data pipelines into scalable, user-centric platforms. I thrive at the intersection of software engineering and artificial intelligence, ensuring that data doesn't just sit in a notebook, but powers real-world production systems.
+
+**Core Competencies:**
+* **Full Stack Engineering:** Architecting high-performance APIs, designing distributed backend systems, and building responsive frontends to interactively visualize complex data.
+* **Data Science & ML:** Engineering scalable ETL pipelines, training predictive machine learning models, and extracting actionable business insights from raw datasets.
+* **Deployment & MLOps:** Bridging development and production by deploying machine learning models as seamless, highly available microservices.
+
+**Open To:** Full-Stack Data Applications, MLOps Architecture, and collaborative open-source AI projects.
 
 ---
 
