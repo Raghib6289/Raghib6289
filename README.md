@@ -4,15 +4,15 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Data+Science+Specialist;Full-Stack+Python;Building+Scalable+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Data+Science+Specialist;Full-Stack+Python+Developement;Building+Scalable+Products" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/M.S.%20Information%20Technology-0D1117?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6&borderColor=8B5CF6" alt="Academic" />
-  <img src="https://img.shields.io/badge/Kolkata%20India,%20CA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=6366F1&borderColor=6366F1" alt="Location" />
+  <img src="https://img.shields.io/badge/BTech%20Information%20Technology-0D1117?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6&borderColor=8B5CF6" alt="Academic" />
+  <img src="https://img.shields.io/badge/Kolkata%20West Bengal,%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=6366F1&borderColor=6366F1" alt="Location" />
 </div>
 
 <br>
