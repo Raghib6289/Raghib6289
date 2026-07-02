@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366F1&height=200&section=header&text=Engineering%20Excellence&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Architecture%20%7C%20Data%20Science%20%7C%20Product%20Development&descAlignY=55&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366F1&height=200&section=header&text=Engineering%20Excellence&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Science%20%7C%20Product%20Development&descAlignY=55&descSize=16" width="100%" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;AI+%26+Data+Science+Specialist;Full-Stack+Enterprise+Architect;Building+Scalable+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Data+Science+Specialist;Full-Stack+Python;Building+Scalable+Products" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/M.S.%20Computer%20Science-0D1117?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6&borderColor=8B5CF6" alt="Academic" />
-  <img src="https://img.shields.io/badge/San%20Francisco,%20CA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=6366F1&borderColor=6366F1" alt="Location" />
+  <img src="https://img.shields.io/badge/M.S.%20Information%20Technology-0D1117?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6&borderColor=8B5CF6" alt="Academic" />
+  <img src="https://img.shields.io/badge/Kolkata%20India,%20CA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=6366F1&borderColor=6366F1" alt="Location" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=9333EA&borderColor=9333EA" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&borderColor=8B5CF6" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6366F1&borderColor=6366F1" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&borderColor=A855F7" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/md~raghib/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&borderColor=8B5CF6" alt="LinkedIn" /></a>
+  <a href="kraghib123@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6366F1&borderColor=6366F1" alt="Email" /></a>
+  <a href="https://www.github.com/Raghib6289"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&borderColor=A855F7" alt="GitHub" /></a>
 </div>
 
 <br>
