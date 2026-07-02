@@ -40,7 +40,7 @@ I am a Senior Software Engineer and AI Practitioner with a strong focus on build
 
 With deep expertise across the full stack—from designing high-throughput backend microservices to developing responsive, user-centric frontends—I bridge the gap between complex algorithms and intuitive product experiences. I am passionate about system design, machine learning operations (MLOps), and cultivating a culture of engineering excellence.
 
-**Open To:** Senior Engineering Roles, Architecture Consultation, Open Source Collaborations, and Tech Leadership opportunities.
+**Open To:** Full-Stack Engineering Roles, Open Source Collaborations, and Tech opportunities.
 
 ---
 
@@ -70,8 +70,7 @@ With deep expertise across the full stack—from designing high-throughput backe
 | :--- | :--- | :--- |
 | **Machine Learning** | Advanced | Supervised/Unsupervised Learning, Ensemble Methods, XGBoost, Scikit-learn, Model Tuning |
 | **Deep Learning** | Advanced | Neural Networks, CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras |
-| **NLP & LLMs** | Expert | RAG Pipelines, HuggingFace, OpenAI API, LangChain, Vector Databases (Pinecone, Milvus) |
-| **Data Engineering** | Intermediate | ETL Pipelines, Apache Spark, Airflow, Snowflake, Data Warehousing |
+| **NLP & LLMs** | Expert | RAG Pipelines, HuggingFace, OpenAI API, LangChain, Vector Databases |
 | **MLOps** | Intermediate | Model Deployment, MLflow, Dockerization, Ray, Triton Inference Server |
 
 ---
@@ -124,21 +123,25 @@ With deep expertise across the full stack—from designing high-throughput backe
 
 ## ✦ Experience
 
-**Senior Software Engineer** | Acme Tech Enterprise
-*Jan 2022 – Present*
-Architected and deployed scalable backend infrastructure powering the core user data platform.
-* Mentored a team of 8 engineers, leading code reviews and establishing CI/CD best practices.
-* Reduced API response times by 65% by migrating monolithic architecture to gRPC-based microservices.
-* Integrated vector search capabilities into the legacy database, enabling rapid semantic search.
-* **Skills:** `System Architecture` `Go` `Kubernetes` `PostgreSQL` `gRPC`
+**Generative AI Engineer** | RT Network Solutions Pvt. Ltd.
+*Jan 2026 – April 2026*
+As a Generative AI Engineering Intern, I played a critical role in training and optimizing large language models (LLMs) by curating high-quality datasets and evaluating AI outputs. Working closely with the development team, I ensured that AI-generated content was accurate, safe, and aligned with human intent, directly contributing to the model's reliability and real-world performance.
+* Data Curation & Annotation: Analyzed and labeled complex text data to create robust training datasets, ensuring strict adherence to quality and consistency guidelines.
+* Model Evaluation (RLHF): Evaluated and ranked AI-generated responses for factual accuracy, coherence, and safety as part of the Reinforcement Learning from Human Feedback pipeline.
+* Prompt Engineering & Refinement: Tested various prompt structures to identify edge cases, biases, and hallucinations, providing actionable feedback to improve model generation capabilities.
+* Quality Assurance: Conducted rigorous reviews of annotated data batches to maintain a high standard of data integrity for machine learning applications.
+* **Skills:** `Data Annotation` ` RLHF` `Large Language Models (LLMs)` ` Prompt Evaluation ` ` AI Quality Assurance` ` Critical Thinking`
 
-**Machine Learning Engineer** | DataSphere AI
-*Aug 2019 – Dec 2021*
-Designed and implemented end-to-end machine learning pipelines for predictive analytics.
-* Developed scalable NLP models for automated ticket resolution, saving 200+ manual hours weekly.
-* Engineered distributed data processing pipelines using Apache Spark on Azure Databricks.
-* Orchestrated model deployment strategies using Docker, MLflow, and Azure Kubernetes Service (AKS).
-* **Skills:** `Python` `PyTorch` `Azure Databricks` `MLOps` `Apache Spark`
+**Full Stack Python Developer Intern** | EduSkills
+*June 2026 – Present*
+(in collaboration with AICTE) | Remote
+* End-to-End Development: Designed, developed, and deployed functional full-stack web applications using Python, Flask, and RESTful APIs.
+* Front-End Engineering: Built dynamic, responsive, and user-centric interfaces utilizing HTML5, CSS3, JavaScript, and Bootstrap, ensuring seamless cross-browser compatibility.
+* Database Management: Designed schemas and managed data flow using relational and NoSQL databases (MySQL, MongoDB) for secure user data storage and retrieval.
+* Version Control & Workflow: Maintained clean, documented code repositories using Git and GitHub, simulating real-world agile industry practices and collaborative development.
+* Cloud Deployment: Successfully deployed a capstone web application [insert quick 3-word description, e.g., for ecommerce management] onto a cloud platform, ensuring stable runtime and live accessibility.
+* Problem Solving: Debugged application errors across the stack, optimizing backend logic and reducing page-load times on the frontend.
+* **Skills:**  `Python` `HTML5` `CSS3` `SQL` `React.js` `React Router` `Bootstrap` `Tailwind CSS` `Responsive Web Design` `Flask` `RESTful APIs` `JSON` `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Git` `GitHub` `ASGI (API Testing)` `Cloud Deployment (AWS)`
 
 ---
 
@@ -146,10 +149,9 @@ Designed and implemented end-to-end machine learning pipelines for predictive an
 
 | Recognition | Details |
 | :---: | :---: |
-| **AWS DeepRacer Champion** | Secured 1st place globally in the reinforcement learning autonomous racing league. |
-| **Hacktoberfest Maintainer** | Successfully maintained and reviewed over 500 PRs for top-tier open-source projects. |
-| **Best Enterprise Product Award** | Lead architect for the product awarded "Innovator of the Year" at TechCrunch Disrupt. |
-| **Patent Pending** | Co-authored a patent on distributed consensus algorithms for edge IoT networks. |
+| **NPTEL JAVA PROGRAMMING** | Secured Top 1% place in the Nptel Exam |
+| **JEE MAINS-2024** | Achieved 98 percentile in the Entrance Exam |
+
 
 ---
 
