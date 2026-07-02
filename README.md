@@ -36,8 +36,6 @@
 
 ## ✦ About
 
-## ✦ About
-
 I am a Full Stack Developer and Data Scientist who specializes in the Python ecosystem. My engineering philosophy centers on bridging the gap between robust software architecture and advanced data analytics to build intelligent, data-driven web applications from the ground up.
 
 By combining a product-first engineering mindset with analytical rigor, I transform complex machine learning models and heavy data pipelines into scalable, user-centric platforms. I thrive at the intersection of software engineering and artificial intelligence, ensuring that data doesn't just sit in a notebook, but powers real-world production systems.
