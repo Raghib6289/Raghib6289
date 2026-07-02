@@ -53,19 +53,19 @@ By combining a product-first engineering mindset with analytical rigor, I transf
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=py,ts,js,go,rs,java,cpp,sql&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,sql&theme=dark" alt="Languages" />
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css,wasm&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" alt="Frontend" />
 
 **Backend & Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,mongodb,redis,kafka&theme=dark" alt="Backend and Databases" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,sql&theme=dark" alt="Backend and Databases" />
 
 **Cloud & DevOps (Azure & AWS)**
 <br>
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions,terraform,linux,nginx&theme=dark" alt="Azure and DevOps" />
+<img src="https://skillicons.dev/icons?i=azure,aws,githubactions,linux&theme=dark" alt="Azure and DevOps" />
 
 ---
 
@@ -73,56 +73,10 @@ By combining a product-first engineering mindset with analytical rigor, I transf
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Machine Learning** | Advanced | Supervised/Unsupervised Learning, Ensemble Methods, XGBoost, Scikit-learn, Model Tuning |
-| **Deep Learning** | Advanced | Neural Networks, CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras |
-| **NLP & LLMs** | Expert | RAG Pipelines, HuggingFace, OpenAI API, LangChain, Vector Databases |
-| **MLOps** | Intermediate | Model Deployment, MLflow, Dockerization, Ray, Triton Inference Server |
-
----
-
-## ✦ Featured Projects
-
-<details>
-  <summary><b>❖ Enterprise Distributed Ledger & Analytics Platform</b></summary>
-  <br>
-  A high-throughput, fault-tolerant financial analytics engine designed to process millions of transactions with sub-second latency, integrating real-time anomaly detection using machine learning models.
-  <br><br>
-
-  | Stack | Scale | Performance | Security | Impact | Repository |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | Go, Rust, Postgres, Kafka | 1M+ TPS | <10ms Latency | SOC2 Compliant | Reduced fraud by 42% | [![Repo](https://img.shields.io/badge/View-Repo-0D1117?style=flat-square&logo=github&logoColor=9333EA)](#) |
-
-  <br>
-  <b>Architecture Breakdown:</b> Engineered utilizing a microservices architecture in Golang, leveraging Kafka for event streaming and Rust for the core cryptographic processing module. The system implements advanced sharding strategies for PostgreSQL, allowing seamless horizontal scaling. The integrated ML pipeline continuously scores transactions for anomalies.
-</details>
-
-<details>
-  <summary><b>❖ Neural Vision Edge System</b></summary>
-  <br>
-  An edge-optimized computer vision framework built for industrial quality assurance, capable of running complex instance segmentation models on resource-constrained hardware.
-  <br><br>
-
-  | Stack | Scale | Performance | Security | Impact | Repository |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | Python, C++, PyTorch, TensorRT | 500+ Edge Nodes | 60 FPS Inference | E2E Encryption | 99.8% QA Accuracy | [![Repo](https://img.shields.io/badge/View-Repo-0D1117?style=flat-square&logo=github&logoColor=8B5CF6)](#) |
-
-  <br>
-  <b>Architecture Breakdown:</b> Developed custom CNN architectures trained on synthetic industrial datasets. Models were quantized and optimized using TensorRT for deployment on NVIDIA Jetson devices. The C++ inference engine interacts with the hardware via raw bindings to minimize overhead, ensuring real-time capabilities without compromising accuracy.
-</details>
-
-<details>
-  <summary><b>❖ Scalable Real-time Collaboration Workspace</b></summary>
-  <br>
-  A full-stack enterprise collaboration tool featuring real-time document editing, synchronized state management, and an AI-powered context assistant.
-  <br><br>
-
-  | Stack | Scale | Performance | Security | Impact | Repository |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | Next.js, Node.js, Redis, WebSockets | 10k+ CCU | 99.99% Uptime | OAuth 2.0 & RBAC | Increased retention 35% | [![Repo](https://img.shields.io/badge/View-Repo-0D1117?style=flat-square&logo=github&logoColor=6366F1)](#) |
-
-  <br>
-  <b>Architecture Breakdown:</b> Built using Operational Transformation (OT) algorithms for conflict-free document syncing over WebSockets. The backend is orchestrated via Node.js microservices with Redis managing pub/sub and distributed caching. The frontend utilizes Next.js with optimistic UI updates for a seamless user experience.
-</details>
+| **Machine Learning** | Intermediate | Supervised/Unsupervised Learning, Ensemble Methods, XGBoost, Scikit-learn, Model Tuning |
+| **Deep Learning** | Intermediate | Neural Networks, CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras |
+| **NLP & LLMs** | Intermediate | RAG Pipelines, HuggingFace, OpenAI API, LangChain, Vector Databases |
+| **MLOps** | Begginer | Model Deployment, MLflow, Dockerization, Ray, Triton Inference Server |
 
 ---
 
@@ -163,14 +117,14 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 ## ✦ Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Professional-0D1117?style=for-the-badge&logo=amazonaws&logoColor=8B5CF6&borderColor=8B5CF6" alt="AWS Pro" />
-  <img src="https://img.shields.io/badge/AWS_Certified_Machine_Learning_Specialty-0D1117?style=for-the-badge&logo=amazonaws&logoColor=9333EA&borderColor=9333EA" alt="AWS ML" />
+  <img src="https://www.credly.com/badges/81297d3f-b5f6-4b53-b546-6f028670dd34/linked_in_profile?style=for-the-badge&logo=microsoft&logoColor=8B5CF6&borderColor=8B5CF6" alt="Azure Fundamentals" />
   <br><br>
-  <img src="https://img.shields.io/badge/Oracle_Certified_Professional_Java_SE-0D1117?style=for-the-badge&logo=oracle&logoColor=6366F1&borderColor=6366F1" alt="Oracle" />
+  <img src="https://www.linkedin.com/feed/update/urn:li:activity:7462054741557280768/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BIQ41G8ISQgehKFMhxWnSYQ%3D%3D?style=for-the-badge&logo=nptel&logoColor=8B5CF6&borderColor=8B5CF6" alt="NPTEL" />
   <br><br>
-  <img src="https://img.shields.io/badge/NPTEL_Data_Structures_&_Algorithms-0D1117?style=for-the-badge&logo=nptel&logoColor=8B5CF6&borderColor=8B5CF6" alt="NPTEL" />
+  <img src="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a40a6b11f68ff6b8fa05c58_1782639742837_completion_certificate.pdf?style=for-the-badge&logo=deloitte&logoColor=9333EA&borderColor=9333EA" alt="Deloitte" />
+</div>
   <br><br>
-  <img src="https://img.shields.io/badge/Cisco_CCNA_Routing_&_Switching-0D1117?style=for-the-badge&logo=cisco&logoColor=9333EA&borderColor=9333EA" alt="Cisco" />
+  <img src="https://learn.microsoft.com/en-us/users/MDRAGHIB-3007/credentials/1128E2CECA09DDA1?ref=https%3a%2f%2fwww.linkedin.com%2f?style=for-the-badge&logo=microsoft&logoColor=9333EA&borderColor=9333EA" alt="Microsoft" />
 </div>
 
 ---
