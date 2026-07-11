@@ -117,6 +117,10 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 ## ✦ Certifications
 
 <div align="center">
+  <a href="https://learn.microsoft.com/en-us/users/mdraghib-3007/credentials/7a58de665cef396?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+    <img src="https://img.shields.io/badge/Azure_Fundamentals-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=8B5CF6" alt="SQL AI Developer Associate" />
+  </a>
+  <br><br>
   <a href="https://www.credly.com/badges/81297d3f-b5f6-4b53-b546-6f028670dd34/linked_in_profile">
     <img src="https://img.shields.io/badge/Azure_Fundamentals-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=8B5CF6" alt="Azure Fundamentals" />
   </a>
