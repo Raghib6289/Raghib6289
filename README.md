@@ -151,12 +151,12 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 ## ✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghib6289&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=6366F1&rank_icon=github" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghib6289&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=6366F1&rank_icon=github" width="48%" alt="" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghib6289&hide_border=true&background=0D1117&ring=9333EA&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=A855F7&sideNums=FFFFFF&sideLabels=A855F7&dates=FFFFFF" width="48%" alt="Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghib6289&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghib6289&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" width="60%" alt="" />
 </div>
 
 ---
