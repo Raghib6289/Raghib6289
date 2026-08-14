@@ -91,14 +91,14 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 * Quality Assurance: Conducted rigorous reviews of annotated data batches to maintain a high standard of data integrity for machine learning applications.
 * **Skills:** `Data Annotation` ` RLHF` `Large Language Models (LLMs)` ` Prompt Evaluation ` ` AI Quality Assurance` ` Critical Thinking`
 
-**Full Stack Python Developer Intern** | EduSkills
-*June 2026 – Present*
-(in collaboration with AICTE) | Remote
-* End-to-End Development: Designed, developed, and deployed functional full-stack web applications using Python, Flask, and RESTful APIs.
+**Full Stack Developer Intern** | EduSkills
+*June 2026 – August 2026*
+(in collaboration with AICTE) | Virtual
+* End-to-End Development: Designed, developed, and deployed functional full-stack web applications using React.js,Node.js, and RESTful APIs.
 * Front-End Engineering: Built dynamic, responsive, and user-centric interfaces utilizing HTML5, CSS3, JavaScript, and Bootstrap, ensuring seamless cross-browser compatibility.
 * Database Management: Designed schemas and managed data flow using relational and NoSQL databases (MySQL, MongoDB) for secure user data storage and retrieval.
 * Version Control & Workflow: Maintained clean, documented code repositories using Git and GitHub, simulating real-world agile industry practices and collaborative development.
-* Cloud Deployment: Successfully deployed a capstone web application [insert quick 3-word description, e.g., for ecommerce management] onto a cloud platform, ensuring stable runtime and live accessibility.
+* Cloud Deployment: Successfully deployed a capstone web application [AI- Skincare routine planner] onto a cloud platform, ensuring stable runtime and live accessibility.
 * Problem Solving: Debugged application errors across the stack, optimizing backend logic and reducing page-load times on the frontend.
 * **Skills:**  `Python` `HTML5` `CSS3` `SQL` `React.js` `React Router` `Bootstrap` `Tailwind CSS` `Responsive Web Design` `Flask` `RESTful APIs` `JSON` `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Git` `GitHub` `ASGI (API Testing)` `Cloud Deployment (AWS)`
 
