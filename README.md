@@ -4,32 +4,32 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Data+Science+Specialist;Full-Stack+Python+Developement;Building+Scalable+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Data+Science+Specialist;Full-Stack+Python+Development;Building+Scalable+Products" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/BTech%20Information%20Technology-0D1117?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6&borderColor=8B5CF6" alt="Academic" />
-  <img src="https://img.shields.io/badge/Kolkata%20West Bengal,%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=6366F1&borderColor=6366F1" alt="Location" />
+  <img src="https://img.shields.io/badge/BTech%20Information%20Technology-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic" />
+  <img src="https://img.shields.io/badge/Kolkata,%20West%20Bengal,%20India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://raghibio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=9333EA&borderColor=9333EA" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/md~raghib/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&borderColor=8B5CF6" alt="LinkedIn" /></a>
-  <a href="kraghib123@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6366F1&borderColor=6366F1" alt="Email" /></a>
-  <a href="https://www.github.com/Raghib6289"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&borderColor=A855F7" alt="GitHub" /></a>
+  <a href="https://raghibio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md~raghib/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kraghib123@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.github.com/Raghib6289"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raghib6289&color=9333EA&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Raghib6289?color=6366F1&style=flat-square&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Raghib6289?color=8B5CF6&style=flat-square&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Raghib6289&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Raghib6289?color=6366F1&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Raghib6289?color=8B5CF6&style=for-the-badge&label=STARS" alt="Stars" />
 </div>
 
 ---
@@ -53,19 +53,19 @@ By combining a product-first engineering mindset with analytical rigor, I transf
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,sql&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,sql&theme=light" alt="Languages" />
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=light" alt="Frontend" />
 
 **Backend & Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,sql&theme=dark" alt="Backend and Databases" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,sql&theme=light" alt="Backend and Databases" />
 
 **Cloud & DevOps (Azure & AWS)**
 <br>
-<img src="https://skillicons.dev/icons?i=azure,aws,githubactions,linux&theme=dark" alt="Azure and DevOps" />
+<img src="https://skillicons.dev/icons?i=azure,aws,githubactions,linux&theme=light" alt="Azure and DevOps" />
 
 ---
 
@@ -76,31 +76,30 @@ By combining a product-first engineering mindset with analytical rigor, I transf
 | **Machine Learning** | Intermediate | Supervised/Unsupervised Learning, Ensemble Methods, XGBoost, Scikit-learn, Model Tuning |
 | **Deep Learning** | Intermediate | Neural Networks, CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras |
 | **NLP & LLMs** | Intermediate | RAG Pipelines, HuggingFace, OpenAI API, LangChain, Vector Databases |
-| **MLOps** | Begginer | Model Deployment, MLflow, Dockerization, Ray, Triton Inference Server |
+| **MLOps** | Beginner | Model Deployment, MLflow, Dockerization, Ray, Triton Inference Server |
 
 ---
 
 ## ✦ Experience
 
-**Generative AI Engineer** | RT Network Solutions Pvt. Ltd.
+**Generative AI Engineer Intern** | RT Network Solutions Pvt. Ltd.
 *Jan 2026 – April 2026*
 As a Generative AI Engineering Intern, I played a critical role in training and optimizing large language models (LLMs) by curating high-quality datasets and evaluating AI outputs. Working closely with the development team, I ensured that AI-generated content was accurate, safe, and aligned with human intent, directly contributing to the model's reliability and real-world performance.
-* Data Curation & Annotation: Analyzed and labeled complex text data to create robust training datasets, ensuring strict adherence to quality and consistency guidelines.
-* Model Evaluation (RLHF): Evaluated and ranked AI-generated responses for factual accuracy, coherence, and safety as part of the Reinforcement Learning from Human Feedback pipeline.
-* Prompt Engineering & Refinement: Tested various prompt structures to identify edge cases, biases, and hallucinations, providing actionable feedback to improve model generation capabilities.
-* Quality Assurance: Conducted rigorous reviews of annotated data batches to maintain a high standard of data integrity for machine learning applications.
-* **Skills:** `Data Annotation` ` RLHF` `Large Language Models (LLMs)` ` Prompt Evaluation ` ` AI Quality Assurance` ` Critical Thinking`
+* **Data Curation & Annotation:** Analyzed and labeled complex text data to create robust training datasets, ensuring strict adherence to quality and consistency guidelines.
+* **Model Evaluation (RLHF):** Evaluated and ranked AI-generated responses for factual accuracy, coherence, and safety as part of the Reinforcement Learning from Human Feedback pipeline.
+* **Prompt Engineering & Refinement:** Tested various prompt structures to identify edge cases, biases, and hallucinations, providing actionable feedback to improve model generation capabilities.
+* **Quality Assurance:** Conducted rigorous reviews of annotated data batches to maintain a high standard of data integrity for machine learning applications.
+* **Skills:** `Data Annotation` `RLHF` `Large Language Models (LLMs)` `Prompt Evaluation` `AI Quality Assurance` `Critical Thinking`
 
-**Full Stack Developer Intern** | EduSkills
+**Full Stack Developer Intern** | EduSkills (in collaboration with AICTE) | Virtual
 *June 2026 – August 2026*
-(in collaboration with AICTE) | Virtual
-* End-to-End Development: Designed, developed, and deployed functional full-stack web applications using React.js,Node.js, and RESTful APIs.
-* Front-End Engineering: Built dynamic, responsive, and user-centric interfaces utilizing HTML5, CSS3, JavaScript, and Bootstrap, ensuring seamless cross-browser compatibility.
-* Database Management: Designed schemas and managed data flow using relational and NoSQL databases (MySQL, MongoDB) for secure user data storage and retrieval.
-* Version Control & Workflow: Maintained clean, documented code repositories using Git and GitHub, simulating real-world agile industry practices and collaborative development.
-* Cloud Deployment: Successfully deployed a capstone web application [AI- Skincare routine planner] onto a cloud platform, ensuring stable runtime and live accessibility.
-* Problem Solving: Debugged application errors across the stack, optimizing backend logic and reducing page-load times on the frontend.
-* **Skills:**  `Python` `HTML5` `CSS3` `SQL` `React.js` `React Router` `Bootstrap` `Tailwind CSS` `Responsive Web Design` `Flask` `RESTful APIs` `JSON` `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Git` `GitHub` `ASGI (API Testing)` `Cloud Deployment (AWS)`
+* **End-to-End Development:** Designed, developed, and deployed functional full-stack web applications using React.js, Node.js, and RESTful APIs.
+* **Front-End Engineering:** Built dynamic, responsive, and user-centric interfaces utilizing HTML5, CSS3, JavaScript, and Bootstrap, ensuring seamless cross-browser compatibility.
+* **Database Management:** Designed schemas and managed data flow using relational and NoSQL databases (MySQL, MongoDB) for secure user data storage and retrieval.
+* **Version Control & Workflow:** Maintained clean, documented code repositories using Git and GitHub, simulating real-world agile industry practices and collaborative development.
+* **Cloud Deployment:** Successfully deployed a capstone web application [AI-Skincare Routine Planner] onto a cloud platform, ensuring stable runtime and live accessibility.
+* **Problem Solving:** Debugged application errors across the stack, optimizing backend logic and reducing page-load times on the frontend.
+* **Skills:** `Python` `HTML5` `CSS3` `SQL` `React.js` `React Router` `Bootstrap` `Tailwind CSS` `Responsive Web Design` `Flask` `RESTful APIs` `JSON` `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Git` `GitHub` `ASGI` `Cloud Deployment (AWS)`
 
 ---
 
@@ -108,7 +107,7 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 
 | Recognition | Details |
 | :---: | :---: |
-| **NPTEL JAVA PROGRAMMING** | Secured Top 1% place in the Nptel Exam |
+| **NPTEL JAVA PROGRAMMING** | Secured Top 1% place in the NPTEL Exam |
 | **JEE MAINS-2024** | Achieved 98 percentile in the Entrance Exam |
 
 
@@ -118,26 +117,23 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/users/mdraghib-3007/credentials/7a58de665cef396?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-    <img src="https://img.shields.io/badge/SQL_AI_Developer_Associate-0D1117?style=for-the-badge&logo=microsoft&logoColor=8B5CF6" alt="SQL AI Developer Associate" />
+    <img src="https://img.shields.io/badge/SQL_AI_Developer_Associate-8B5CF6?style=for-the-badge&logo=microsoft&logoColor=white" alt="SQL AI Developer Associate" />
   </a>
   <br><br>
   <a href="https://www.credly.com/badges/81297d3f-b5f6-4b53-b546-6f028670dd34/linked_in_profile">
-    <img src="https://img.shields.io/badge/Azure_Fundamentals-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=8B5CF6" alt="Azure Fundamentals" />
+    <img src="https://img.shields.io/badge/Azure_Fundamentals-6366F1?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
   </a>
   <br><br>
-  
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7462054741557280768/">
-    <img src="https://img.shields.io/badge/NPTEL_Certification-0D1117?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6" alt="NPTEL" />
+    <img src="https://img.shields.io/badge/NPTEL_Certification-9333EA?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NPTEL" />
   </a>
   <br><br>
-  
   <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a40a6b11f68ff6b8fa05c58_1782639742837_completion_certificate.pdf">
-    <img src="https://img.shields.io/badge/Deloitte_Job_Simulation-0D1117?style=for-the-badge&logo=deloitte&logoColor=9333EA" alt="Deloitte" />
+    <img src="https://img.shields.io/badge/Deloitte_Job_Simulation-8B5CF6?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte" />
   </a>
   <br><br>
-  
   <a href="https://learn.microsoft.com/en-us/users/MDRAGHIB-3007/credentials/1128E2CECA09DDA1">
-    <img src="https://img.shields.io/badge/Microsoft_Learn_Credential-0D1117?style=for-the-badge&logo=microsoft&logoColor=9333EA" alt="Microsoft" />
+    <img src="https://img.shields.io/badge/Microsoft_Learn_Credential-6366F1?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
   </a>
 </div>
 
@@ -146,12 +142,11 @@ As a Generative AI Engineering Intern, I played a critical role in training and 
 ## ✦ Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Top_1%25-0D1117?style=for-the-badge&logo=leetcode&logoColor=8B5CF6&borderColor=8B5CF6" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Gold-0D1117?style=for-the-badge&logo=hackerrank&logoColor=9333EA&borderColor=9333EA" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode_Top_1%25-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank_5_Star_Gold-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </div>
 
 ---
-
 
 ## ✦ Current Focus
 
