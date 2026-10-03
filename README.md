@@ -1,59 +1,58 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,16,17&height=180&section=header&text=MD%20RAGHIB&fontSize=42&fontColor=A78BFA&animation=scaleIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=65&descSize=15&descColor=C4B5FD" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4&height=160&section=header&text=MD%20RAGHIB&fontSize=38&fontColor=2DD4BF&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=70&descSize=14&descColor=94A3B8" width="100%" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Pipelines;Full-Stack+Python+Development;Bridging+Software+Architecture+%26+Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Engineering+Robust+AI+Systems;Accelerating+Data+Pipelines;Building+Scalable+Web+Products" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<!-- Sleek Modern Pill Navigation Bar -->
 <div align="center">
-  <a href="https://raghibio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-09090B?style=for-the-badge&logo=vercel&logoColor=10B981" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/md~raghib/"><img src="https://img.shields.io/badge/💼_LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" /></a>
-  <a href="mailto:kraghib123@gmail.com"><img src="https://img.shields.io/badge/📧_Email-09090B?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email" /></a>
-  <a href="https://github.com/Raghib6289"><img src="https://img.shields.io/badge/1️⃣_B.Tech_IT-09090B?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6" alt="Academic" /></a>
-  <a href="https://github.com/Raghib6289"><img src="https://img.shields.io/badge/📍_Kolkata-09090B?style=for-the-badge&logo=googlemaps&logoColor=EC4899" alt="Location" /></a>
+  <a href="https://raghibio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-%230F172A?style=for-the-badge&logo=vercel&logoColor=2DD4BF" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md~raghib/"><img src="https://img.shields.io/badge/💼_LinkedIn-%230F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+  <a href="mailto:kraghib123@gmail.com"><img src="https://img.shields.io/badge/📧_Email-%230F172A?style=for-the-badge&logo=gmail&logoColor=F43F5E" alt="Email" /></a>
+  <a href="https://github.com/Raghib6289"><img src="https://img.shields.io/badge/🎓_B.Tech_IT-%230F172A?style=for-the-badge&logo=googlescholar&logoColor=A78BFA" alt="Academic" /></a>
+  <a href="https://github.com/Raghib6289"><img src="https://img.shields.io/badge/📍_Kolkata-%230F172A?style=for-the-badge&logo=googlemaps&logoColor=FB7185" alt="Location" /></a>
 </div>
 
 <div align="center">
-  <img src="https://counter10.optistats.ovh/private/freecounterstat.c?c=9k4d38374z8w8s9l6b2f4x5y1z3w7s2e&start_value=1489" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Raghib6289?color=8B5CF6&style=flat-square&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Raghib6289?color=3B82F6&style=flat-square&label=STARS" alt="Stars" />
+  <img src="https://counter10.optistats.ovh/private/freecounterstat.c?c=9k4d38374z8w8s9l6b2f4x5y1z3w7s2e&start_value=1479" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Raghib6289?color=2DD4BF&style=flat-square&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Raghib6289?color=38BDF8&style=flat-square&label=STARS" alt="Stars" />
 </div>
 
 <br>
 
 ---
 
-## ⚡ About Me
+## 🔭 About Me
 
-> **"Transforming complex machine learning models and heavy data pipelines into scalable, high-performance web products."**
+> *"Bridging the gap between complex machine learning paradigms and high-performance, responsive software engineering."*
 
-I am an **AI Engineer & Full-Stack Developer** based in Kolkata, specializing in the Python ecosystem. I love closing the gap between rigorous data science analytics and robust backend/frontend software architecture.
+I am an **AI Engineer & Full-Stack Developer** based in Kolkata, specializing in python architectures, scalable backend frameworks, and data-driven product implementations.
 
-* 🧠 **Specialties:** Generative AI, LLMs, RAG Pipelines, & Full-Stack Web Development.
-* 🌱 **Current Exploration:** Advanced containerization (`Docker`), MLOps infrastructure, and cloud deployment pipelines (`AWS`).
+* 💡 **Primary Focus:** Generative AI solutions, LLM prompt optimization & alignment, and full-stack web application deployment.
+* ⚡ **Core Philosophy:** Clean code, robust data workflows, and intuitive end-user interfaces.
 
 <br>
 
-## 🛠️ Tech Stack Matrix
+## 🛠️ Technology Stack
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>💻 Languages</b></td>
-      <td align="center"><b>🌐 Frontend & UI</b></td>
+      <td align="center"><b>💻 Core Languages</b></td>
+      <td align="center"><b>🎨 Frontend & UI</b></td>
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=py,ts,js,java,sql" alt="Languages" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend" /></td>
     </tr>
     <tr>
-      <td align="center"><b>⚙️️ Backend & DBs</b></td>
+      <td align="center"><b>⚙️ Backend & Databases</b></td>
       <td align="center"><b>☁️ Cloud & DevOps</b></td>
     </tr>
     <tr>
@@ -67,14 +66,14 @@ I am an **AI Engineer & Full-Stack Developer** based in Kolkata, specializing in
 
 ---
 
-## 📈 Core Domain Expertise
+## 📊 Technical Expertise
 
-| 🔍 Domain | Level | Key Technologies & Focus |
+| Domain | Proficiency | Core Frameworks & Tools |
 | :--- | :---: | :--- |
-| **Machine Learning** | 🟡 Intermediate | Supervised/Unsupervised Learning, XGBoost, Scikit-learn |
+| **Machine Learning** | 🟡 Intermediate | Scikit-learn, XGBoost, Supervised/Unsupervised Modeling |
 | **Deep Learning** | 🟡 Intermediate | PyTorch, TensorFlow, CNNs, RNNs, Neural Architectures |
-| **NLP & LLMs** | 🟡 Intermediate | RAG Pipelines, HuggingFace, OpenAI API, LangChain, Vector DBs |
-| **MLOps & Deployment** | 🟢 Beginner | Docker, MLflow, Model Serving, AWS Endpoints |
+| **NLP & LLMs** | 🟡 Intermediate | RAG Pipelines, LangChain, HuggingFace, OpenAI API, Vector DBs |
+| **MLOps & Infra** | 🟢 Beginner | Docker, MLflow, Model Serving, AWS Deployments |
 
 <br>
 
@@ -84,27 +83,27 @@ I am an **AI Engineer & Full-Stack Developer** based in Kolkata, specializing in
 
 ### 🤖 Generative AI Engineer Intern | *RT Network Solutions Pvt. Ltd.*
 📅 *Jan 2026 – Apr 2026*
-> Curated high-quality training datasets and optimized large language models for safety, alignment, and precise context handling.
-* **RLHF & Evaluation:** Rated and refined AI-generated responses for factual coherence and safety alignment metrics.
-* **Prompt Optimization:** Developed robust test datasets and prompt chains to minimize edge-case hallucinations.
+> Focused on data curation, prompt optimization, and alignment scoring for large language models.
+* **RLHF & Evaluation:** Critiqued and ranked AI outputs to guarantee factual coherence, safety, and alignment standards.
+* **Prompt Engineering:** Formulated testing matrices and edge-case prompt frameworks to reduce model hallucination rates.
 
 ### 💻 Full Stack Developer Intern | *EduSkills (with AICTE)*
 📅 *Jun 2026 – Aug 2026*
-> Engineered dynamic full-stack applications utilizing modern web frameworks, SQL/NoSQL databases, and cloud execution.
-* **Full-Stack Build:** Built responsive user interfaces paired with secure, performant backend controllers.
-* **Cloud Integration:** Deployed capstone systems (such as the *AI-Skincare Routine Planner*) successfully onto AWS infrastructure.
+> Developed and launched end-to-end web applications featuring modern frameworks and cloud components.
+* **Full-Stack Execution:** Crafted interactive user interfaces tied to high-throughput backend services and structured database schemas.
+* **Cloud Deployment:** Deployed the capstone project (*AI-Skincare Routine Planner*) onto production AWS environments.
 
 <br>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Credentials
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>🏅 Key Highlights</b></td>
-      <td align="center"><b>⚡ Competitive Programming</b></td>
+      <td align="center"><b>🏅 Major Highlights</b></td>
+      <td align="center"><b>⚡ Competitive Stats</b></td>
     </tr>
     <tr>
       <td>
@@ -114,8 +113,8 @@ I am an **AI Engineer & Full-Stack Developer** based in Kolkata, specializing in
         </ul>
       </td>
       <td align="center">
-        <a href="#"><img src="https://img.shields.io/badge/LeetCode_Top_1%25-10B981?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a><br><br>
-        <a href="#"><img src="https://img.shields.io/badge/HackerRank_5_Star-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/LeetCode_Top_1%25-2DD4BF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a><br><br>
+        <a href="#"><img src="https://img.shields.io/badge/HackerRank_5_Star-38BDF8?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
       </td>
     </tr>
   </table>
@@ -124,26 +123,26 @@ I am an **AI Engineer & Full-Stack Developer** based in Kolkata, specializing in
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL_AI_Developer_Associate-09090B?style=for-the-badge&logo=microsoft&logoColor=3B82F6" alt="SQL" />
-  <img src="https://img.shields.io/badge/Azure_Fundamentals-09090B?style=for-the-badge&logo=microsoftazure&logoColor=6366F1" alt="Azure" />
-  <img src="https://img.shields.io/badge/NPTEL_Top_1%-09090B?style=for-the-badge&logo=googlescholar&logoColor=10B981" alt="NPTEL" />
-  <img src="https://img.shields.io/badge/Deloitte_Simulation-09090B?style=for-the-badge&logo=deloitte&logoColor=EF4444" alt="Deloitte" />
+  <img src="https://img.shields.io/badge/SQL_AI_Developer_Associate-%230F172A?style=for-the-badge&logo=microsoft&logoColor=38BDF8" alt="SQL" />
+  <img src="https://img.shields.io/badge/Azure_Fundamentals-%230F172A?style=for-the-badge&logo=microsoftazure&logoColor=2DD4BF" alt="Azure" />
+  <img src="https://img.shields.io/badge/NPTEL_Top_1%25-%230F172A?style=for-the-badge&logo=googlescholar&logoColor=A78BFA" alt="NPTEL" />
+  <img src="https://img.shields.io/badge/Deloitte_Simulation-%230F172A?style=for-the-badge&logo=deloitte&logoColor=F43F5E" alt="Deloitte" />
 </div>
 
 <br>
 
 ---
 
-## 🎯 Current Focus & Horizon
+## 🎯 Current Focus
 
-| 🌱 **Learning & Improving** | 🛠️ **Active Projects** |
+| 🌱 **Learning & Exploring** | 🛠️ **Building & Creating** |
 | :--- | :--- |
-| • Advanced Python Patterns (Async, OOP)<br>• Data pipelines using Pandas & NumPy<br>• High-speed async APIs via **FastAPI** | • Real-time Data Visualization Dashboards<br>• Scalable REST wrappers for custom ETL pipelines<br>• End-to-end ML Portfolio interfaces |
+| • Advanced Python Architecture (Async/OOP)<br>• Advanced data manipulation (Pandas/NumPy)<br>• High-performance APIs with **FastAPI** | • Real-time Data Visualization Dashboards<br>• Scalable ETL data pipeline wrappers<br>• Full-stack ML project prototypes |
 
 <br>
 
 <div align="center">
-  <i>Let's build something extraordinary together! 🚀</i>
+  <i>Let's build something exceptional together! 🚀</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=line&color=10B981&height=10&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=line&color=2DD4BF&height=8&section=footer" width="100%" alt="Footer" />
 </div>
