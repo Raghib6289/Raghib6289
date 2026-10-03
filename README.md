@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raghib6289.Raghib6289&color=10B981&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://counter10.optistats.ovh/private/freecounterstat.c?c=9k4d38374z8w8s9l6b2f4x5y1z3w7s2e&start_value=1489" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Raghib6289?color=8B5CF6&style=flat-square&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Raghib6289?color=3B82F6&style=flat-square&label=STARS" alt="Stars" />
 </div>
@@ -53,7 +53,7 @@ I am an **AI Engineer & Full-Stack Developer** based in Kolkata, specializing in
       <td align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend" /></td>
     </tr>
     <tr>
-      <td align="center"><b>⚙️ Backend & DBs</b></td>
+      <td align="center"><b>⚙️️ Backend & DBs</b></td>
       <td align="center"><b>☁️ Cloud & DevOps</b></td>
     </tr>
     <tr>
