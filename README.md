@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raghib6289&color=9333EA&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://u8views.com/github/Raghib6289"><img src="https://u8views.com/badge/github/Raghib6289" alt="Profile Views" /></a>
   <img src="https://img.shields.io/github/followers/Raghib6289?color=6366F1&style=flat-square&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Raghib6289?color=8B5CF6&style=flat-square&label=STARS" alt="Stars" />
 </div>
@@ -54,16 +54,16 @@ I am a Full Stack Developer and Data Scientist specializing in the Python ecosys
       <td align="center"><b>🎨 Frontend</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=py,ts,js,java,sql&theme=light" alt="Languages" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=light" alt="Frontend" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=py,ts,js,java,sql" alt="Languages" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend" /></td>
     </tr>
     <tr>
       <td align="center"><b>⚙️ Backend & Databases</b></td>
       <td align="center"><b>☁️ Cloud & DevOps</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,sqlite&theme=light" alt="Backend" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=azure,aws,githubactions,linux&theme=light" alt="Cloud" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,sqlite" alt="Backend" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=azure,aws,githubactions,linux" alt="Cloud" /></td>
     </tr>
   </table>
 </div>
