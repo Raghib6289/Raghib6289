@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 420" width="100%" height="100%">
+  <defs>
+    <style>
+      .about-font {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      }
+      .about-mono {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+      }
+
+      /* Carousel 12s cycle (3 slides x 4s each) */
+      @keyframes aboutSlide1 {
+        0%, 30% { opacity: 1; transform: translateX(0); }
+        33.3%, 96.6% { opacity: 0; transform: translateX(-15px); }
+        100% { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes aboutSlide2 {
+        0%, 30% { opacity: 0; transform: translateX(15px); }
+        33.3%, 63.3% { opacity: 1; transform: translateX(0); }
+        66.6%, 100% { opacity: 0; transform: translateX(-15px); }
+      }
+      @keyframes aboutSlide3 {
+        0%, 63.3% { opacity: 0; transform: translateX(15px); }
+        66.6%, 96.6% { opacity: 1; transform: translateX(0); }
+        100% { opacity: 0; transform: translateX(-15px); }
+      }
+
+      .about-slide-1 { animation: aboutSlide1 12s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+      .about-slide-2 { animation: aboutSlide2 12s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+      .about-slide-3 { animation: aboutSlide3 12s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+
+      /* Segment Progress Bars Animation */
+      @keyframes aboutProgress1 {
+        0% { width: 0; opacity: 1; }
+        30% { width: 112px; opacity: 1; }
+        33.3%, 100% { width: 112px; opacity: 0.3; }
+      }
+      @keyframes aboutProgress2 {
+        0%, 33.3% { width: 0; opacity: 0.3; }
+        33.4% { width: 0; opacity: 1; }
+        63.3% { width: 112px; opacity: 1; }
+        66.6%, 100% { width: 112px; opacity: 0.3; }
+      }
+      @keyframes aboutProgress3 {
+        0%, 66.6% { width: 0; opacity: 0.3; }
+        66.7% { width: 0; opacity: 1; }
+        96.6% { width: 112px; opacity: 1; }
+        100% { width: 112px; opacity: 0.3; }
+      }
+
+      .about-bar-1 { animation: aboutProgress1 12s linear infinite; }
+      .about-bar-2 { animation: aboutProgress2 12s linear infinite; }
+      .about-bar-3 { animation: aboutProgress3 12s linear infinite; }
+
+      @media (prefers-reduced-motion: reduce) {
+        .about-slide-1, .about-slide-2, .about-slide-3,
+        .about-bar-1, .about-bar-2, .about-bar-3 {
+          animation: none !important;
+          transform: none !important;
+        }
+        .about-slide-1 { opacity: 1 !important; }
+        .about-slide-2, .about-slide-3 { display: none !important; }
+        .about-bar-1 { width: 112px !important; opacity: 1 !important; }
+      }
+    </style>
+
+    <linearGradient id="about-blue-crimson" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#247bff"/>
+      <stop offset="100%" stop-color="#ff354f"/>
+    </linearGradient>
+
+    <linearGradient id="about-card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c1328"/>
+      <stop offset="100%" stop-color="#070b16"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="420" fill="#070b16"/>
+
+  <!-- Subtle Dot Grid Texture -->
+  <g fill="#1e2c56" opacity="0.3">
+    <circle cx="80" cy="60" r="1.5"/><circle cx="160" cy="60" r="1.5"/><circle cx="240" cy="60" r="1.5"/><circle cx="320" cy="60" r="1.5"/>
+    <circle cx="80" cy="140" r="1.5"/><circle cx="160" cy="140" r="1.5"/><circle cx="240" cy="140" r="1.5"/><circle cx="320" cy="140" r="1.5"/>
+    <circle cx="80" cy="220" r="1.5"/><circle cx="160" cy="220" r="1.5"/><circle cx="240" cy="220" r="1.5"/><circle cx="320" cy="220" r="1.5"/>
+    <circle cx="80" cy="300" r="1.5"/><circle cx="160" cy="300" r="1.5"/><circle cx="240" cy="300" r="1.5"/><circle cx="320" cy="300" r="1.5"/>
+  </g>
+
+  <!-- LEFT CARD: CORE CAPABILITIES -->
+  <g transform="translate(30, 30)">
+    <rect x="0" y="0" width="435" height="360" rx="16" fill="url(#about-card-grad)" stroke="#1e2c56" stroke-width="1.5"/>
+    <rect x="0" y="0" width="435" height="360" rx="16" fill="none" stroke="url(#about-blue-crimson)" stroke-width="1.5" opacity="0.6"/>
+
+    <!-- Header -->
+    <g transform="translate(35, 42)">
+      <text x="0" y="0" class="about-font" font-size="20" font-weight="800" fill="#f1f5f9" letter-spacing="0.5">🧠 CORE CAPABILITIES</text>
+      <text x="0" y="20" class="about-mono" font-size="12" fill="#94a3b8">Engineering depth and production competencies</text>
+    </g>
+
+    <!-- Capability Rows -->
+    <g transform="translate(35, 95)">
+      <!-- Row 1 -->
+      <g>
+        <rect x="0" y="0" width="365" height="68" rx="10" fill="#131e3d" stroke="#247bff" stroke-width="1"/>
+        <circle cx="22" cy="22" r="5" fill="#247bff"/>
+        <text x="36" y="26" class="about-font" font-size="14" font-weight="700" fill="#f1f5f9">GenAI &amp; LLM Alignment</text>
+        <text x="36" y="48" class="about-font" font-size="12" fill="#94a3b8">RLHF fine-tuning, prompt testing &amp; evaluation suites.</text>
+      </g>
+
+      <!-- Row 2 -->
+      <g transform="translate(0, 78)">
+        <rect x="0" y="0" width="365" height="68" rx="10" fill="#131e3d" stroke="#ff354f" stroke-width="1"/>
+        <circle cx="22" cy="22" r="5" fill="#ff354f"/>
+        <text x="36" y="26" class="about-font" font-size="14" font-weight="700" fill="#f1f5f9">Full-Stack Architecture</text>
+        <text x="36" y="48" class="about-font" font-size="12" fill="#94a3b8">Modern React/TS applications, high-performance APIs.</text>
+      </g>
+
+      <!-- Row 3 -->
+      <g transform="translate(0, 156)">
+        <rect x="0" y="0" width="365" height="68" rx="10" fill="#131e3d" stroke="#247bff" stroke-width="1"/>
+        <circle cx="22" cy="22" r="5" fill="#247bff"/>
+        <text x="36" y="26" class="about-font" font-size="14" font-weight="700" fill="#f1f5f9">Cloud &amp; DevOps Pipelines</text>
+        <text x="36" y="48" class="about-font" font-size="12" fill="#94a3b8">AWS cloud deployment, Docker, Linux &amp; CI/CD automation.</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- RIGHT CARD: THREE-SLIDE INTERESTS CAROUSEL -->
+  <g transform="translate(495, 30)">
+    <rect x="0" y="0" width="435" height="360" rx="16" fill="url(#about-card-grad)" stroke="#1e2c56" stroke-width="1.5"/>
+    <rect x="0" y="0" width="435" height="360" rx="16" fill="none" stroke="url(#about-blue-crimson)" stroke-width="1.5" opacity="0.6"/>
+
+    <!-- Header -->
+    <g transform="translate(35, 42)">
+      <text x="0" y="0" class="about-font" font-size="20" font-weight="800" fill="#f1f5f9" letter-spacing="0.5">🎯 LIFE BEYOND CODE</text>
+      <text x="0" y="20" class="about-mono" font-size="12" fill="#94a3b8">Three interests • 4-second cycling carousel</text>
+    </g>
+
+    <!-- Carousel Slide Area (x=35, y=90, width=365, height=190) -->
+    <g transform="translate(35, 90)">
+      <rect x="0" y="0" width="365" height="190" rx="12" fill="#070b16" stroke="#1e2c56" stroke-width="1"/>
+
+      <!-- SLIDE 1: Online Games -->
+      <g class="about-slide-1">
+        <rect x="0" y="0" width="365" height="190" rx="12" fill="#070b16"/>
+        <g transform="translate(24, 30)">
+          <text x="0" y="28" font-size="34">🎮</text>
+          <g transform="translate(46, 12)">
+            <text x="0" y="0" class="about-font" font-size="18" font-weight="800" fill="#f1f5f9">Playing Online Games</text>
+            <text x="0" y="18" class="about-mono" font-size="11" font-weight="600" fill="#247bff">TACTICAL &amp; STRATEGY ESPORTS</text>
+          </g>
+          <text x="0" y="65" class="about-font" font-size="13" fill="#94a3b8">
+            Immersive tactical shooters, real-time team strategy,
+          </text>
+          <text x="0" y="85" class="about-font" font-size="13" fill="#94a3b8">
+            and competitive ranking across open-world RPGs.
+          </text>
+          <!-- Tags -->
+          <g transform="translate(0, 105)">
+            <rect x="0" y="0" width="86" height="22" rx="6" fill="#131e3d" stroke="#247bff" stroke-width="0.8"/>
+            <text x="43" y="15" class="about-mono" font-size="10" font-weight="600" fill="#38bdf8" text-anchor="middle">#Strategy</text>
+            <rect x="96" y="0" width="84" height="22" rx="6" fill="#131e3d" stroke="#247bff" stroke-width="0.8"/>
+            <text x="138" y="15" class="about-mono" font-size="10" font-weight="600" fill="#38bdf8" text-anchor="middle">#Tactical</text>
+            <rect x="190" y="0" width="70" height="22" rx="6" fill="#131e3d" stroke="#247bff" stroke-width="0.8"/>
+            <text x="225" y="15" class="about-mono" font-size="10" font-weight="600" fill="#38bdf8" text-anchor="middle">#RPGs</text>
+          </g>
+        </g>
+      </g>
+
+      <!-- SLIDE 2: Culinary Arts -->
+      <g class="about-slide-2" opacity="0">
+        <rect x="0" y="0" width="365" height="190" rx="12" fill="#070b16"/>
+        <g transform="translate(24, 30)">
+          <text x="0" y="28" font-size="34">🍳</text>
+          <g transform="translate(46, 12)">
+            <text x="0" y="0" class="about-font" font-size="18" font-weight="800" fill="#f1f5f9">Culinary Exploration</text>
+            <text x="0" y="18" class="about-mono" font-size="11" font-weight="600" fill="#ff354f">GASTRONOMY &amp; FLAVORS</text>
+          </g>
+          <text x="0" y="65" class="about-font" font-size="13" fill="#94a3b8">
+            Experimenting with artisanal spice blends, slow roasts,
+          </text>
+          <text x="0" y="85" class="about-font" font-size="13" fill="#94a3b8">
+            and mastering precision cooking techniques.
+          </text>
+          <!-- Tags -->
+          <g transform="translate(0, 105)">
+            <rect x="0" y="0" width="86" height="22" rx="6" fill="#131e3d" stroke="#ff354f" stroke-width="0.8"/>
+            <text x="43" y="15" class="about-mono" font-size="10" font-weight="600" fill="#ff354f" text-anchor="middle">#Culinary</text>
+            <rect x="96" y="0" width="84" height="22" rx="6" fill="#131e3d" stroke="#ff354f" stroke-width="0.8"/>
+            <text x="138" y="15" class="about-mono" font-size="10" font-weight="600" fill="#ff354f" text-anchor="middle">#Flavors</text>
+            <rect x="190" y="0" width="80" height="22" rx="6" fill="#131e3d" stroke="#ff354f" stroke-width="0.8"/>
+            <text x="230" y="15" class="about-mono" font-size="10" font-weight="600" fill="#ff354f" text-anchor="middle">#Precision</text>
+          </g>
+        </g>
+      </g>
+
+      <!-- SLIDE 3: Music & Audio -->
+      <g class="about-slide-3" opacity="0">
+        <rect x="0" y="0" width="365" height="190" rx="12" fill="#070b16"/>
+        <g transform="translate(24, 30)">
+          <text x="0" y="28" font-size="34">🎧</text>
+          <g transform="translate(46, 12)">
+            <text x="0" y="0" class="about-font" font-size="18" font-weight="800" fill="#f1f5f9">Music &amp; Soundscapes</text>
+            <text x="0" y="18" class="about-mono" font-size="11" font-weight="600" fill="#818cf8">SYNTH &amp; DEEP FOCUS</text>
+          </g>
+          <text x="0" y="65" class="about-font" font-size="13" fill="#94a3b8">
+            Curating high-tempo synthwave and immersive lo-fi
+          </text>
+          <text x="0" y="85" class="about-font" font-size="13" fill="#94a3b8">
+            soundscapes that drive productive deep-work flow.
+          </text>
+          <!-- Tags -->
+          <g transform="translate(0, 105)">
+            <rect x="0" y="0" width="86" height="22" rx="6" fill="#131e3d" stroke="#818cf8" stroke-width="0.8"/>
+            <text x="43" y="15" class="about-mono" font-size="10" font-weight="600" fill="#818cf8" text-anchor="middle">#Synthwave</text>
+            <rect x="96" y="0" width="84" height="22" rx="6" fill="#131e3d" stroke="#818cf8" stroke-width="0.8"/>
+            <text x="138" y="15" class="about-mono" font-size="10" font-weight="600" fill="#818cf8" text-anchor="middle">#Sound</text>
+            <rect x="190" y="0" width="80" height="22" rx="6" fill="#131e3d" stroke="#818cf8" stroke-width="0.8"/>
+            <text x="230" y="15" class="about-mono" font-size="10" font-weight="600" fill="#818cf8" text-anchor="middle">#FlowState</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <!-- SEGMENT PROGRESS BARS (3 Segments for 4s each) -->
+    <g transform="translate(35, 305)">
+      <!-- Segment 1 -->
+      <g>
+        <rect x="0" y="0" width="112" height="5" rx="2.5" fill="#1e2c56"/>
+        <rect x="0" y="0" width="0" height="5" rx="2.5" fill="#247bff" class="about-bar-1"/>
+      </g>
+      <!-- Segment 2 -->
+      <g transform="translate(126, 0)">
+        <rect x="0" y="0" width="112" height="5" rx="2.5" fill="#1e2c56"/>
+        <rect x="0" y="0" width="0" height="5" rx="2.5" fill="#ff354f" class="about-bar-2"/>
+      </g>
+      <!-- Segment 3 -->
+      <g transform="translate(252, 0)">
+        <rect x="0" y="0" width="112" height="5" rx="2.5" fill="#1e2c56"/>
+        <rect x="0" y="0" width="0" height="5" rx="2.5" fill="#818cf8" class="about-bar-3"/>
+      </g>
+
+      <!-- Labels -->
+      <text x="56" y="22" class="about-mono" font-size="10" fill="#64748b" text-anchor="middle">01 GAMING</text>
+      <text x="182" y="22" class="about-mono" font-size="10" fill="#64748b" text-anchor="middle">02 CULINARY</text>
+      <text x="308" y="22" class="about-mono" font-size="10" fill="#64748b" text-anchor="middle">03 MUSIC</text>
+    </g>
+  </g>
+
+</svg>
